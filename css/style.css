@@ -1,0 +1,48 @@
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-tumblr {
+  background: #2c4762;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+div#main{
+  max-width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+#quote-box{
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.vertical-center {
+  min-height: 100%; 
+  min-height: 100vh; 
+
+  display: flex;
+  align-items: center;
+}
+
+#quote{
+  padding: 0;
+  margin-right: 0;
+  font-size: 1.5em;
+
+}
